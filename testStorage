@@ -1,0 +1,27 @@
+t specification for firebaseStorage modifying module (for genres)
+
+
+
+# Input string list
+
+	Length:
+
+		0.						[property zerovalue]
+
+		1.
+
+		>1.
+
+		
+
+# Input string
+
+	Content:
+
+		alphanumeric characters. [if !zerovalue]
+
+		special characters. 	 [if !zerovalue]
+
+		empty.
+
+		
